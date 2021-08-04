@@ -6,9 +6,8 @@
 ```  
 $ pkg update && pkg upgrade && pkg install git -y
 
-$ git clone https://github.com/NAVANEETHPL/bash
+$ git clone https://github.com/NAVANEETHPL/bash 
 
-$ cd bash
+$ bash ~/bash/install.sh
 
-$ bash install.sh
 ```
